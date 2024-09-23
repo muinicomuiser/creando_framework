@@ -1,0 +1,3 @@
+Cuestiones que van surgiendo
+    ¿Qué pasa si no viene un body en los endpoints que lo precisan? El servidor se cae. Hay que resolverlo.
+    Crear una clase para manejar consultas y respuestas, como en express.
